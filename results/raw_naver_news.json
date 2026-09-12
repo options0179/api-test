@@ -1,0 +1,1652 @@
+[
+  {
+    "true_buzz": 0,
+    "raw": 14,
+    "normalized": 7.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 6,
+    "normalized": 3.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 3,
+    "normalized": 1.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 3,
+    "normalized": 1.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 12,
+    "normalized": 6.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 23,
+    "normalized": 11.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 8,
+    "normalized": 4.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 8,
+    "normalized": 4.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 3,
+    "normalized": 1.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 12,
+    "normalized": 6.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 7,
+    "normalized": 3.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 1,
+    "normalized": 0.5
+  },
+  {
+    "true_buzz": 0,
+    "raw": 26,
+    "normalized": 13.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 0,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 39,
+    "normalized": 19.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 22,
+    "normalized": 11.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 9,
+    "normalized": 4.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 21,
+    "normalized": 10.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 23,
+    "normalized": 11.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 38,
+    "normalized": 19.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 36,
+    "normalized": 18.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 17,
+    "normalized": 8.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 7,
+    "normalized": 3.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 51,
+    "normalized": 25.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 29,
+    "normalized": 14.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 36,
+    "normalized": 18.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 14,
+    "normalized": 7.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 20,
+    "normalized": 10.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 33,
+    "normalized": 16.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 28,
+    "normalized": 14.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 28,
+    "normalized": 14.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 40,
+    "normalized": 20.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 5,
+    "normalized": 2.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 12,
+    "normalized": 6.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 26,
+    "normalized": 13.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 19,
+    "normalized": 9.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 32,
+    "normalized": 16.0
+  },
+  {
+    "true_buzz": 10,
+    "raw": 57,
+    "normalized": 28.5
+  },
+  {
+    "true_buzz": 10,
+    "raw": 0,
+    "normalized": 0.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 24,
+    "normalized": 12.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 21,
+    "normalized": 10.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 40,
+    "normalized": 20.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 30,
+    "normalized": 15.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 26,
+    "normalized": 13.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 35,
+    "normalized": 17.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 36,
+    "normalized": 18.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 50,
+    "normalized": 25.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 42,
+    "normalized": 21.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 46,
+    "normalized": 23.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 62,
+    "normalized": 31.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 35,
+    "normalized": 17.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 22,
+    "normalized": 11.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 50,
+    "normalized": 25.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 48,
+    "normalized": 24.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 44,
+    "normalized": 22.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 32,
+    "normalized": 16.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 35,
+    "normalized": 17.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 56,
+    "normalized": 28.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 52,
+    "normalized": 26.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 29,
+    "normalized": 14.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 44,
+    "normalized": 22.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 23,
+    "normalized": 11.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 44,
+    "normalized": 22.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 17,
+    "normalized": 8.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 58,
+    "normalized": 29.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 53,
+    "normalized": 26.5
+  },
+  {
+    "true_buzz": 20,
+    "raw": 40,
+    "normalized": 20.0
+  },
+  {
+    "true_buzz": 20,
+    "raw": 27,
+    "normalized": 13.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 82,
+    "normalized": 41.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 75,
+    "normalized": 37.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 49,
+    "normalized": 24.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 54,
+    "normalized": 27.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 68,
+    "normalized": 34.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 74,
+    "normalized": 37.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 50,
+    "normalized": 25.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 45,
+    "normalized": 22.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 39,
+    "normalized": 19.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 81,
+    "normalized": 40.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 63,
+    "normalized": 31.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 75,
+    "normalized": 37.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 58,
+    "normalized": 29.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 53,
+    "normalized": 26.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 93,
+    "normalized": 46.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 66,
+    "normalized": 33.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 29,
+    "normalized": 14.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 71,
+    "normalized": 35.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 64,
+    "normalized": 32.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 66,
+    "normalized": 33.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 73,
+    "normalized": 36.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 59,
+    "normalized": 29.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 48,
+    "normalized": 24.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 42,
+    "normalized": 21.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 51,
+    "normalized": 25.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 39,
+    "normalized": 19.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 68,
+    "normalized": 34.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 86,
+    "normalized": 43.0
+  },
+  {
+    "true_buzz": 30,
+    "raw": 55,
+    "normalized": 27.5
+  },
+  {
+    "true_buzz": 30,
+    "raw": 63,
+    "normalized": 31.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 81,
+    "normalized": 40.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 76,
+    "normalized": 38.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 97,
+    "normalized": 48.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 60,
+    "normalized": 30.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 105,
+    "normalized": 52.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 60,
+    "normalized": 30.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 84,
+    "normalized": 42.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 65,
+    "normalized": 32.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 90,
+    "normalized": 45.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 80,
+    "normalized": 40.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 76,
+    "normalized": 38.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 88,
+    "normalized": 44.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 76,
+    "normalized": 38.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 82,
+    "normalized": 41.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 106,
+    "normalized": 53.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 91,
+    "normalized": 45.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 82,
+    "normalized": 41.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 75,
+    "normalized": 37.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 61,
+    "normalized": 30.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 82,
+    "normalized": 41.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 71,
+    "normalized": 35.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 61,
+    "normalized": 30.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 90,
+    "normalized": 45.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 87,
+    "normalized": 43.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 83,
+    "normalized": 41.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 81,
+    "normalized": 40.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 48,
+    "normalized": 24.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 71,
+    "normalized": 35.5
+  },
+  {
+    "true_buzz": 40,
+    "raw": 100,
+    "normalized": 50.0
+  },
+  {
+    "true_buzz": 40,
+    "raw": 65,
+    "normalized": 32.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 109,
+    "normalized": 54.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 94,
+    "normalized": 47.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 116,
+    "normalized": 58.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 134,
+    "normalized": 67.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 113,
+    "normalized": 56.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 141,
+    "normalized": 70.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 108,
+    "normalized": 54.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 107,
+    "normalized": 53.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 120,
+    "normalized": 60.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 110,
+    "normalized": 55.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 114,
+    "normalized": 57.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 102,
+    "normalized": 51.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 94,
+    "normalized": 47.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 92,
+    "normalized": 46.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 104,
+    "normalized": 52.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 96,
+    "normalized": 48.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 106,
+    "normalized": 53.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 77,
+    "normalized": 38.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 96,
+    "normalized": 48.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 105,
+    "normalized": 52.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 108,
+    "normalized": 54.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 104,
+    "normalized": 52.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 107,
+    "normalized": 53.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 79,
+    "normalized": 39.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 79,
+    "normalized": 39.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 105,
+    "normalized": 52.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 113,
+    "normalized": 56.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 100,
+    "normalized": 50.0
+  },
+  {
+    "true_buzz": 50,
+    "raw": 113,
+    "normalized": 56.5
+  },
+  {
+    "true_buzz": 50,
+    "raw": 92,
+    "normalized": 46.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 109,
+    "normalized": 54.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 112,
+    "normalized": 56.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 131,
+    "normalized": 65.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 117,
+    "normalized": 58.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 132,
+    "normalized": 66.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 117,
+    "normalized": 58.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 110,
+    "normalized": 55.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 128,
+    "normalized": 64.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 101,
+    "normalized": 50.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 117,
+    "normalized": 58.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 94,
+    "normalized": 47.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 114,
+    "normalized": 57.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 116,
+    "normalized": 58.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 123,
+    "normalized": 61.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 140,
+    "normalized": 70.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 115,
+    "normalized": 57.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 126,
+    "normalized": 63.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 132,
+    "normalized": 66.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 119,
+    "normalized": 59.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 150,
+    "normalized": 75.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 124,
+    "normalized": 62.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 107,
+    "normalized": 53.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 133,
+    "normalized": 66.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 128,
+    "normalized": 64.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 111,
+    "normalized": 55.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 106,
+    "normalized": 53.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 113,
+    "normalized": 56.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 126,
+    "normalized": 63.0
+  },
+  {
+    "true_buzz": 60,
+    "raw": 113,
+    "normalized": 56.5
+  },
+  {
+    "true_buzz": 60,
+    "raw": 103,
+    "normalized": 51.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 153,
+    "normalized": 76.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 130,
+    "normalized": 65.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 132,
+    "normalized": 66.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 144,
+    "normalized": 72.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 133,
+    "normalized": 66.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 137,
+    "normalized": 68.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 146,
+    "normalized": 73.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 155,
+    "normalized": 77.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 144,
+    "normalized": 72.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 149,
+    "normalized": 74.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 167,
+    "normalized": 83.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 136,
+    "normalized": 68.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 146,
+    "normalized": 73.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 138,
+    "normalized": 69.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 155,
+    "normalized": 77.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 142,
+    "normalized": 71.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 136,
+    "normalized": 68.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 162,
+    "normalized": 81.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 148,
+    "normalized": 74.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 152,
+    "normalized": 76.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 137,
+    "normalized": 68.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 133,
+    "normalized": 66.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 164,
+    "normalized": 82.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 137,
+    "normalized": 68.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 157,
+    "normalized": 78.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 119,
+    "normalized": 59.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 158,
+    "normalized": 79.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 131,
+    "normalized": 65.5
+  },
+  {
+    "true_buzz": 70,
+    "raw": 136,
+    "normalized": 68.0
+  },
+  {
+    "true_buzz": 70,
+    "raw": 151,
+    "normalized": 75.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 172,
+    "normalized": 86.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 150,
+    "normalized": 75.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 137,
+    "normalized": 68.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 137,
+    "normalized": 68.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 158,
+    "normalized": 79.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 181,
+    "normalized": 90.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 155,
+    "normalized": 77.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 180,
+    "normalized": 90.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 146,
+    "normalized": 73.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 122,
+    "normalized": 61.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 138,
+    "normalized": 69.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 173,
+    "normalized": 86.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 163,
+    "normalized": 81.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 163,
+    "normalized": 81.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 175,
+    "normalized": 87.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 176,
+    "normalized": 88.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 199,
+    "normalized": 99.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 166,
+    "normalized": 83.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 145,
+    "normalized": 72.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 168,
+    "normalized": 84.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 147,
+    "normalized": 73.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 185,
+    "normalized": 92.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 164,
+    "normalized": 82.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 152,
+    "normalized": 76.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 148,
+    "normalized": 74.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 153,
+    "normalized": 76.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 166,
+    "normalized": 83.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 168,
+    "normalized": 84.0
+  },
+  {
+    "true_buzz": 80,
+    "raw": 145,
+    "normalized": 72.5
+  },
+  {
+    "true_buzz": 80,
+    "raw": 168,
+    "normalized": 84.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 176,
+    "normalized": 88.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 165,
+    "normalized": 82.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 180,
+    "normalized": 90.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 162,
+    "normalized": 81.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 171,
+    "normalized": 85.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 175,
+    "normalized": 87.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 215,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 90,
+    "raw": 158,
+    "normalized": 79.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 172,
+    "normalized": 86.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 162,
+    "normalized": 81.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 171,
+    "normalized": 85.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 180,
+    "normalized": 90.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 205,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 90,
+    "raw": 171,
+    "normalized": 85.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 197,
+    "normalized": 98.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 188,
+    "normalized": 94.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 191,
+    "normalized": 95.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 168,
+    "normalized": 84.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 179,
+    "normalized": 89.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 165,
+    "normalized": 82.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 152,
+    "normalized": 76.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 151,
+    "normalized": 75.5
+  },
+  {
+    "true_buzz": 90,
+    "raw": 174,
+    "normalized": 87.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 170,
+    "normalized": 85.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 172,
+    "normalized": 86.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 180,
+    "normalized": 90.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 216,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 90,
+    "raw": 188,
+    "normalized": 94.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 158,
+    "normalized": 79.0
+  },
+  {
+    "true_buzz": 90,
+    "raw": 164,
+    "normalized": 82.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 231,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 202,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 185,
+    "normalized": 92.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 220,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 193,
+    "normalized": 96.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 203,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 194,
+    "normalized": 97.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 212,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 170,
+    "normalized": 85.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 197,
+    "normalized": 98.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 191,
+    "normalized": 95.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 206,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 195,
+    "normalized": 97.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 192,
+    "normalized": 96.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 216,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 191,
+    "normalized": 95.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 212,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 227,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 189,
+    "normalized": 94.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 195,
+    "normalized": 97.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 217,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 186,
+    "normalized": 93.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 188,
+    "normalized": 94.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 206,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 197,
+    "normalized": 98.5
+  },
+  {
+    "true_buzz": 100,
+    "raw": 203,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 194,
+    "normalized": 97.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 214,
+    "normalized": 100
+  },
+  {
+    "true_buzz": 100,
+    "raw": 186,
+    "normalized": 93.0
+  },
+  {
+    "true_buzz": 100,
+    "raw": 205,
+    "normalized": 100
+  }
+]

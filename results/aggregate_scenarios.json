@@ -1,0 +1,93 @@
+{
+  "scenarios": {
+    "완전_밈": {
+      "true_buzz": 95,
+      "score": 89.46539852884482,
+      "label": "폭발적 화제",
+      "signals": {
+        "naver_news": {
+          "raw": 204,
+          "normalized": 100
+        },
+        "datalab": {
+          "raw": 81.0342189529885,
+          "normalized": 81.0342189529885
+        },
+        "youtube_trend": {
+          "raw": 4,
+          "normalized": 92
+        }
+      }
+    },
+    "연예_이슈": {
+      "true_buzz": 70,
+      "score": 69.42545989746718,
+      "label": "화제",
+      "signals": {
+        "naver_news": {
+          "raw": 125,
+          "normalized": 62.5
+        },
+        "datalab": {
+          "raw": 69.27879977214928,
+          "normalized": 69.27879977214928
+        },
+        "youtube_trend": {
+          "raw": 11,
+          "normalized": 78
+        }
+      }
+    },
+    "일상_뉴스": {
+      "true_buzz": 35,
+      "score": 34.62249483562097,
+      "label": "보통",
+      "signals": {
+        "naver_news": {
+          "raw": 50,
+          "normalized": 25.0
+        },
+        "datalab": {
+          "raw": 36.93887741249104,
+          "normalized": 36.93887741249104
+        },
+        "youtube_trend": {
+          "raw": 29,
+          "normalized": 42
+        }
+      }
+    },
+    "무관심_주제": {
+      "true_buzz": 5,
+      "score": 10.40552292262205,
+      "label": "관심없음",
+      "signals": {
+        "naver_news": {
+          "raw": 5,
+          "normalized": 2.5
+        },
+        "datalab": {
+          "raw": 21.456717605826775,
+          "normalized": 21.456717605826775
+        },
+        "youtube_trend": {
+          "raw": 0,
+          "normalized": 0
+        }
+      }
+    }
+  },
+  "rank_match": true,
+  "by_true": [
+    "완전_밈",
+    "연예_이슈",
+    "일상_뉴스",
+    "무관심_주제"
+  ],
+  "by_score": [
+    "완전_밈",
+    "연예_이슈",
+    "일상_뉴스",
+    "무관심_주제"
+  ]
+}
