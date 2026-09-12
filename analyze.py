@@ -9,6 +9,7 @@ from pathlib import Path
 
 RESULTS_DIR = Path(__file__).parent / "results"
 WEB_DIR = Path(__file__).parent / "web"
+ACQUISITION_FILE = Path(__file__).parent / "acquisition_difficulty.json"
 DETECTION_THRESHOLD = 70  # 이 이상을 "화제"로 본다
 
 
@@ -61,8 +62,9 @@ def main():
         ]
 
     aggregate = json.loads((RESULTS_DIR / "aggregate_scenarios.json").read_text())
+    acquisition = json.loads(ACQUISITION_FILE.read_text())
 
-    analysis = {"per_api": per_api, "scatter": scatter, "aggregate": aggregate}
+    analysis = {"per_api": per_api, "scatter": scatter, "aggregate": aggregate, "acquisition": acquisition}
 
     out = RESULTS_DIR / "analysis.json"
     out.write_text(json.dumps(analysis, ensure_ascii=False, indent=2))

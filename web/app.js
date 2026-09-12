@@ -137,8 +137,39 @@ function fillAggregate() {
   }
 }
 
+function fillAcquisition() {
+  const container = document.getElementById("acquisition-cards");
+  for (const [api, info] of Object.entries(ANALYSIS.acquisition)) {
+    const badgeClass = info.blockers.length === 0
+      ? "ok"
+      : info.signup_difficulty.includes("불가")
+      ? "blocked"
+      : "limited";
+    const badgeText = info.blockers.length === 0
+      ? "사용 가능"
+      : info.signup_difficulty.includes("불가")
+      ? "발급 불가"
+      : "제한적 사용 가능";
+
+    const card = document.createElement("div");
+    card.className = "acq-card";
+    card.innerHTML = `
+      <h3>${API_LABELS[api] || info.label}</h3>
+      <span class="badge ${badgeClass}">${badgeText}</span>
+      <dl>
+        <dt>비용</dt><dd>${info.cost}</dd>
+        <dt>발급 난이도</dt><dd>${info.signup_difficulty}</dd>
+        ${info.blockers.length > 0 ? `<dt>막힌 부분</dt><dd><ul>${info.blockers.map((b) => `<li>${b}</li>`).join("")}</ul></dd>` : ""}
+        <dt>결론</dt><dd>${info.status}</dd>
+      </dl>
+    `;
+    container.appendChild(card);
+  }
+}
+
 fillMetricsTable();
 drawCorrChart();
 drawScatterChart();
 fillLegend();
 fillAggregate();
+fillAcquisition();

@@ -7,6 +7,7 @@
   --accent: #5b9dff;
   --good: #4caf7d;
   --bad: #e0616b;
+  --warn: #d6a13a;
 }
 
 @media (prefers-color-scheme: light) {
@@ -101,8 +102,51 @@ canvas {
   font-weight: 600;
 }
 
-.badge.pass { background: color-mix(in srgb, var(--good) 20%, transparent); color: var(--good); }
-.badge.fail { background: color-mix(in srgb, var(--bad) 20%, transparent); color: var(--bad); }
+.badge.pass, .badge.ok { background: color-mix(in srgb, var(--good) 20%, transparent); color: var(--good); }
+.badge.fail, .badge.blocked { background: color-mix(in srgb, var(--bad) 20%, transparent); color: var(--bad); }
+.badge.limited { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--warn); }
+
+.acq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.acq-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.acq-card h3 {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.acq-card dl {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.acq-card dt {
+  font-weight: 600;
+  margin-top: 0.4rem;
+}
+
+.acq-card dd {
+  margin: 0;
+}
+
+.acq-card ul {
+  margin: 0.2rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
 
 code {
   background: color-mix(in srgb, var(--accent) 12%, transparent);
