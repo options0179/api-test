@@ -1,6 +1,7 @@
 """Phase 5: DataLab + YouTube 실API로 같은 키워드 셋을 조회해서 결과를 저장한다.
 
-뉴스 검색 API는 약관 확인 전까지 제외 (real_fetchers/naver_news.py 참고).
+뉴스 검색 API는 이 파이프라인에서 완전히 제외 — 개정된 검색 API 특약이
+저장/캐싱/가공을 금지해서 이 프로젝트 용도로는 쓸 수 없음 (real_fetchers/naver_news.py 참고).
 실행 전에 .env.example을 복사한 .env에 NAVER_CLIENT_ID/SECRET, YOUTUBE_API_KEY를
 채워야 한다.
 
