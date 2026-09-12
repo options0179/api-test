@@ -45,7 +45,7 @@ def analyze_api(rows: list[dict]) -> dict:
 
 
 def main():
-    apis = ["naver_news", "datalab", "youtube_trend"]
+    apis = ["youtube_trend"]
     per_api = {}
     scatter = {}
     for name in apis:

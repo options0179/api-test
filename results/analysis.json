@@ -1,170 +1,60 @@
 {
   "per_api": {
-    "naver_news": {
-      "n": 330,
-      "correlation": 0.9777,
-      "mae": 5.17,
-      "bias": 0.31,
-      "noise_std": 6.64,
-      "detect_rate": 0.8583,
-      "false_positive_rate": 0.0143
-    },
-    "datalab": {
-      "n": 330,
-      "correlation": 0.9571,
-      "mae": 6.59,
-      "bias": 0.51,
-      "noise_std": 9.23,
-      "detect_rate": 0.85,
-      "false_positive_rate": 0.0286
-    },
     "youtube_trend": {
       "n": 330,
-      "correlation": 0.9118,
-      "mae": 12.39,
-      "bias": -8.52,
-      "noise_std": 15.83,
+      "correlation": 0.9061,
+      "mae": 12.56,
+      "bias": -8.37,
+      "noise_std": 16.65,
       "detect_rate": 0.8583,
-      "false_positive_rate": 0.0143
+      "false_positive_rate": 0.0238
     }
   },
   "scatter": {
-    "naver_news": [
-      {
-        "true_buzz": 0,
-        "avg_normalized": 3.0
-      },
-      {
-        "true_buzz": 10,
-        "avg_normalized": 12.5
-      },
-      {
-        "true_buzz": 20,
-        "avg_normalized": 19.13
-      },
-      {
-        "true_buzz": 30,
-        "avg_normalized": 30.65
-      },
-      {
-        "true_buzz": 40,
-        "avg_normalized": 39.57
-      },
-      {
-        "true_buzz": 50,
-        "avg_normalized": 52.3
-      },
-      {
-        "true_buzz": 60,
-        "avg_normalized": 59.45
-      },
-      {
-        "true_buzz": 70,
-        "avg_normalized": 72.13
-      },
-      {
-        "true_buzz": 80,
-        "avg_normalized": 80.0
-      },
-      {
-        "true_buzz": 90,
-        "avg_normalized": 87.33
-      },
-      {
-        "true_buzz": 100,
-        "avg_normalized": 97.38
-      }
-    ],
-    "datalab": [
-      {
-        "true_buzz": 0,
-        "avg_normalized": 5.09
-      },
-      {
-        "true_buzz": 10,
-        "avg_normalized": 11.83
-      },
-      {
-        "true_buzz": 20,
-        "avg_normalized": 21.84
-      },
-      {
-        "true_buzz": 30,
-        "avg_normalized": 30.76
-      },
-      {
-        "true_buzz": 40,
-        "avg_normalized": 38.49
-      },
-      {
-        "true_buzz": 50,
-        "avg_normalized": 50.48
-      },
-      {
-        "true_buzz": 60,
-        "avg_normalized": 60.29
-      },
-      {
-        "true_buzz": 70,
-        "avg_normalized": 70.98
-      },
-      {
-        "true_buzz": 80,
-        "avg_normalized": 80.04
-      },
-      {
-        "true_buzz": 90,
-        "avg_normalized": 88.85
-      },
-      {
-        "true_buzz": 100,
-        "avg_normalized": 96.95
-      }
-    ],
     "youtube_trend": [
       {
         "true_buzz": 0,
-        "avg_normalized": 0
+        "avg_normalized": 1
       },
       {
         "true_buzz": 10,
-        "avg_normalized": 0.27
+        "avg_normalized": 0.8
       },
       {
         "true_buzz": 20,
-        "avg_normalized": 1.47
+        "avg_normalized": 4.47
       },
       {
         "true_buzz": 30,
-        "avg_normalized": 8.47
+        "avg_normalized": 11.2
       },
       {
         "true_buzz": 40,
-        "avg_normalized": 29.07
+        "avg_normalized": 17.33
       },
       {
         "true_buzz": 50,
-        "avg_normalized": 36.67
+        "avg_normalized": 30.8
       },
       {
         "true_buzz": 60,
-        "avg_normalized": 48.4
+        "avg_normalized": 58.93
       },
       {
         "true_buzz": 70,
-        "avg_normalized": 69.53
+        "avg_normalized": 65.27
       },
       {
         "true_buzz": 80,
-        "avg_normalized": 79.93
+        "avg_normalized": 82
       },
       {
         "true_buzz": 90,
-        "avg_normalized": 86.73
+        "avg_normalized": 89.2
       },
       {
         "true_buzz": 100,
-        "avg_normalized": 95.8
+        "avg_normalized": 96.93
       }
     ]
   },
@@ -172,79 +62,23 @@
     "scenarios": {
       "완전_밈": {
         "true_buzz": 95,
-        "score": 89.46539852884482,
-        "label": "폭발적 화제",
-        "signals": {
-          "naver_news": {
-            "raw": 204,
-            "normalized": 100
-          },
-          "datalab": {
-            "raw": 81.0342189529885,
-            "normalized": 81.0342189529885
-          },
-          "youtube_trend": {
-            "raw": 4,
-            "normalized": 92
-          }
-        }
+        "score": 98,
+        "label": "폭발적 화제"
       },
       "연예_이슈": {
         "true_buzz": 70,
-        "score": 69.42545989746718,
-        "label": "화제",
-        "signals": {
-          "naver_news": {
-            "raw": 125,
-            "normalized": 62.5
-          },
-          "datalab": {
-            "raw": 69.27879977214928,
-            "normalized": 69.27879977214928
-          },
-          "youtube_trend": {
-            "raw": 11,
-            "normalized": 78
-          }
-        }
+        "score": 66,
+        "label": "화제"
       },
       "일상_뉴스": {
         "true_buzz": 35,
-        "score": 34.62249483562097,
-        "label": "보통",
-        "signals": {
-          "naver_news": {
-            "raw": 50,
-            "normalized": 25.0
-          },
-          "datalab": {
-            "raw": 36.93887741249104,
-            "normalized": 36.93887741249104
-          },
-          "youtube_trend": {
-            "raw": 29,
-            "normalized": 42
-          }
-        }
+        "score": 0,
+        "label": "관심없음"
       },
       "무관심_주제": {
         "true_buzz": 5,
-        "score": 10.40552292262205,
-        "label": "관심없음",
-        "signals": {
-          "naver_news": {
-            "raw": 5,
-            "normalized": 2.5
-          },
-          "datalab": {
-            "raw": 21.456717605826775,
-            "normalized": 21.456717605826775
-          },
-          "youtube_trend": {
-            "raw": 0,
-            "normalized": 0
-          }
-        }
+        "score": 0,
+        "label": "관심없음"
       }
     },
     "rank_match": true,

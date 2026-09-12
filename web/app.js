@@ -1,11 +1,7 @@
 const API_LABELS = {
-  naver_news: "Naver News",
-  datalab: "DataLab",
   youtube_trend: "YouTube Trend",
 };
 const API_COLORS = {
-  naver_news: "#5b9dff",
-  datalab: "#4caf7d",
   youtube_trend: "#e0956b",
 };
 
@@ -126,7 +122,13 @@ function fillAggregate() {
   document.getElementById("rank-true").textContent = agg.by_true.join(" > ");
   document.getElementById("rank-score").textContent = agg.by_score.join(" > ");
   const badge = document.getElementById("rank-match");
-  badge.textContent = agg.rank_match ? "PASS — 순위 일치" : "FAIL — 순위 불일치";
+  const scores = Object.values(agg.scenarios).map((s) => s.score);
+  const hasTie = new Set(scores).size < scores.length;
+  let text = agg.rank_match ? "PASS — 순위 일치" : "FAIL — 순위 불일치";
+  if (agg.rank_match && hasTie) {
+    text += " (일부 점수가 0으로 동점 — YouTube 단일 소스로는 저화제도 구간을 구분 못함)";
+  }
+  badge.textContent = text;
   badge.classList.add(agg.rank_match ? "pass" : "fail");
 
   const tbody = document.querySelector("#scenario-table tbody");
