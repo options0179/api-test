@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>API 화제도 탐지 성능 비교</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Naver News / DataLab / YouTube Trend — 화제도 탐지 성능 비교</h1>
+    <p class="sub">Mock 데이터 기반 POC. true_buzz(숨겨진 실제 화제도)를 각 API가 얼마나
+      정확히 반영하는지 비교한다.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>API별 성능 지표</h2>
+      <table id="metrics-table">
+        <thead>
+          <tr>
+            <th>API</th>
+            <th>상관계수</th>
+            <th>평균오차(MAE)</th>
+            <th>편향(bias)</th>
+            <th>노이즈(std)</th>
+            <th>탐지율</th>
+            <th>오탐율</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>정확도(상관계수) 비교</h2>
+      <canvas id="corr-chart" width="640" height="260"></canvas>
+    </section>
+
+    <section>
+      <h2>true_buzz 대비 반영값 (대각선에 가까울수록 정확)</h2>
+      <canvas id="scatter-chart" width="640" height="360"></canvas>
+      <div class="legend" id="scatter-legend"></div>
+    </section>
+
+    <section>
+      <h2>집계 파이프라인 시나리오 테스트</h2>
+      <p>실제 화제도 순위: <code id="rank-true"></code></p>
+      <p>스코어 산출 순위: <code id="rank-score"></code></p>
+      <p id="rank-match" class="badge"></p>
+      <table id="scenario-table">
+        <thead>
+          <tr><th>시나리오</th><th>true_buzz</th><th>score</th><th>등급</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
